@@ -76,6 +76,15 @@ It should be noted that some of the newer fintech companies, such as Robinhood, 
 ### Investing in crypto, other types of ETFs and mutual funds and real estate?
 I would recommend only allocating a total of 5% of your investments to individual stocks and exotic investment types.
 
+### Extra Money
+
+If you have extra money to invest over the 5% Cash Account and 15% investment. I would consider the following investments.
+
+- Hold more cash
+- Keep adding to your core mutual funds (VTSAX and VTBLX or equivalent)
+- Series I bonds 
+- REIT Mutual Fund (VGSLX) or ETF (VNQ) 
+
 ## Where to Park Your Money
 
 ### High Yield Saving Accounts
