@@ -1,7 +1,3 @@
-Menu: no
-
-Updated: 2022-07-23
-
 # General Financial Advice
 ## Initial Notes
 Many people have asked me to give them general financial advice. This document distills the core of that advice. I am not a financial advisor. I'm a self-taught investor and want to share some of the strategies and tactics that I feel that helped me in my financial journey.
