@@ -61,7 +61,7 @@ Max out your employer's 401k. It doesn't matter if you do a Roth 401k or not. Ma
 ### IRA
 Max out your IRA. Here, do Roth if possible, otherwise do the traditional contribution.
 
-If your income to too high to use a Roth IRA tax deduction, don't worry -- just contribute to the Traditional IRA and record the transaction on Tax Form 8606. Keep it updated annually. In the future, you'll be able to withdraw money from the IRA in a tax advantaged way or do a Roth conversion.
+If your income is too high to use a Roth IRA tax deduction, don't worry -- just contribute to the Traditional IRA and record the transaction on Tax Form 8606. Keep it updated annually. In the future, you'll be able to withdraw money from the IRA in a tax advantaged way or do a Roth conversion.
  
 ### Brokerage Account
 After maxing out the 401k and IRA investments, I would keep it very simple. I would open a brokerage account in Vanguard or Fidelity and start making investments there at the usual allocation of stocks and bonds.
