@@ -6,9 +6,23 @@ Updated: 2022-07-23
 ## Initial Notes
 Many people have asked me to give them general financial advice. This document distills the core of that advice. I am not a financial advisor. I'm a self-taught investor and want to share some of the strategies and tactics that I feel that helped me in my financial journey.
 
+## General Principles
+### Wealthbuilding is a marathon. 
+For most of us, building a high net worth will take 3 to 4 decades. Be patient. Play the long game. Believe in the power of compounding. Invest in tried and true assets and don't waste resources (both financial and emotional) on the flavor of the day.
+
+### Never bet against America. 
+Keep your investments in the United States and you won't regret it. Over the long term, America has the right system for financial success. In the short term, it can be a bumpy ride. Have faith in America.
+
+### Automate everything. 
+From investments to paying debts & bills, take advantage of the automated programs. It reduces the risk of mistakes, missed payments & missed investments, and decision-making fatigue.
+
+### Use large, trusted institutions to make your investments. 
+Big financial institutions will be able to protect your money during deep recessions and will be able to offer high-value services at reasonable cost and with excellent service. I like Vanguard and Fidelity.
+
 ## Reading & Resources
 I recommend the following books and resources that I used to learn about investing.
-- [The Simple Path to Wealth by JL Collins ](https://bookshop.org/a/11815/9781533667922) -- Definitely start with this book. It's a quick read and well written.
+- [The Simple Path to Wealth by JL Collins](https://bookshop.org/a/11815/9781533667922) -- Definitely start with this book. It's a quick read and well written.
+- [Berkshire Hathaway Annual Shareholder Letters by Warren Buffett](https://berkshirehathaway.com/letters/letters.html) -- I never miss this. Go back and read them all. Good lesson about how to be a profitable investor.
 - [Financial Peace University by Dave Ramsey](https://www.ramseysolutions.com/ramseyplus/financial-peace) -- A video course that explains all the basics.
 - [I Will Teach You To Be Rich by Ramit Sethi](https://bookshop.org/a/11815/9781523505746) -- Scammy title. Great book.
 - [The Truth About Money by Ric Edelman](https://bookshop.org/a/11815/9780062006486) -- This is a dense, high yield book. Really great overall primer and explains basic concepts of personal finance. Read it twice.
