@@ -18,7 +18,7 @@ Big financial institutions will be able to protect your money during deep recess
 ## Reading & Resources
 I recommend the following books and resources that I used to learn about investing.
 - [The Simple Path to Wealth by JL Collins](https://bookshop.org/a/11815/9781533667922) -- Definitely start with this book. It's a quick read and well written.
-- [Berkshire Hathaway Annual Shareholder Letters by Warren Buffett](https://berkshirehathaway.com/letters/letters.html) -- I never miss this. Go back and read them all. Good lesson about how to be a profitable investor.
+- [Berkshire Hathaway Annual Shareholder Letters by Warren Buffett](https://berkshirehathaway.com/letters/letters.html) -- I never miss this. Go back and read them all. Good lessons about how to be a profitable investor.
 - [Financial Peace University by Dave Ramsey](https://www.ramseysolutions.com/ramseyplus/financial-peace) -- A video course that explains all the basics.
 - [I Will Teach You To Be Rich by Ramit Sethi](https://bookshop.org/a/11815/9781523505746) -- Scammy title. Great book.
 - [The Truth About Money by Ric Edelman](https://bookshop.org/a/11815/9780062006486) -- This is a dense, high yield book. Really great overall primer and explains basic concepts of personal finance. Read it twice.
@@ -74,7 +74,7 @@ I prefer mutual funds over ETFs. It is easier to automate investments with mutua
 It should be noted that some of the newer fintech companies, such as Robinhood, do allow automatic investments into ETFs.
 
 ### Investing in crypto, other types of ETFs and mutual funds and real estate?
-I would recommend only allocating a total of 5% of your investment to individual stocks and exotic investment types.
+I would recommend only allocating a total of 5% of your investments to individual stocks and exotic investment types.
 
 ## Where to Park Your Money
 
